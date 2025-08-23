@@ -10,7 +10,7 @@ sites:
   - name: LAX01-R
     url: $LAX01R_URL
   - name: LAX02-R
-    url: https://fiber19-r.iaasdns.com
+    url: $LAX02R_URL
   - name: FRA01
     url: https://de5000.dnsiaas.com
 
