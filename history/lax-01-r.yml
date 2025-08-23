@@ -1,7 +1,7 @@
-url: https://fiber24-r.iaasdns.com
+url: $LAX01R_URL
 status: up
 code: 200
-responseTime: 297
-lastUpdated: 2025-08-22T23:08:37.624Z
+responseTime: 922
+lastUpdated: 2025-08-23T05:17:41.497Z
 startTime: 2025-08-22T21:47:24.475Z
 generator: Upptime <https://github.com/upptime/upptime>
