@@ -1,7 +1,7 @@
-url: https://de5000.dnsiaas.com
+url: $FRA01_URL
 status: up
 code: 200
-responseTime: 589
-lastUpdated: 2025-08-23T06:08:49.386Z
+responseTime: 990
+lastUpdated: 2025-08-23T07:31:11.132Z
 startTime: 2025-08-22T21:47:25.776Z
 generator: Upptime <https://github.com/upptime/upptime>
