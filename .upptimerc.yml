@@ -12,7 +12,7 @@ sites:
   - name: LAX02-R
     url: $LAX02R_URL
   - name: FRA01
-    url: https://de5000.dnsiaas.com
+    url: $FRA01_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
