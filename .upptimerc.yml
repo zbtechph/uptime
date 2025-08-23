@@ -24,8 +24,6 @@ status-website:
   introTitle: 
   introMessage: 
   navbar:
-    - title: Status
-      href: /
     - title: Billing Portal
       href: https://billing.sulithosting.com
 
