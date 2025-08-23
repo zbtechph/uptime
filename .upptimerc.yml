@@ -8,7 +8,7 @@ sites:
     type: globalping
     location: Philippines
   - name: LAX01-R
-    url: https://fiber24-r.iaasdns.com
+    url: $LAX01R_URL
   - name: LAX02-R
     url: https://fiber19-r.iaasdns.com
   - name: FRA01
