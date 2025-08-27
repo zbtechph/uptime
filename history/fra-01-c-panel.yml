@@ -1,7 +1,7 @@
 url: $FRA01_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-27T15:45:16.145Z
+status: up
+code: 200
+responseTime: 1278
+lastUpdated: 2025-08-27T15:55:30.489Z
 startTime: 2025-08-24T09:18:47.955Z
 generator: Upptime <https://github.com/upptime/upptime>
