@@ -82,19 +82,19 @@
     "url": "$LEY01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ley-01-direct-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1179,
-    "timeDay": 1228,
-    "timeWeek": 1567,
-    "timeMonth": 1179,
-    "timeYear": 1179,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1170,
+    "timeDay": 1108,
+    "timeWeek": 1494,
+    "timeMonth": 1170,
+    "timeYear": 1170,
     "dailyMinutesDown": {
-      "2025-09-12": 0
+      "2025-09-12": 12
     }
   }
 ]
