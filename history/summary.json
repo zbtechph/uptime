@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.sulithosting.com.ico",
     "slug": "billing-portal",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 569,
     "timeDay": 646,
     "timeWeek": 724,
@@ -26,10 +26,10 @@
     "url": "$LAX01R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-01-r-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
@@ -37,17 +37,19 @@
     "timeWeek": 742,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-16": 1
+    }
   },
   {
     "name": "LAX02-R (cPanel)",
     "url": "$LAX02R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-02-r-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 723,
@@ -56,6 +58,7 @@
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2025-09-16": 1,
       "2025-08-25": 28
     }
   },
@@ -64,9 +67,9 @@
     "url": "$FRA01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fra-01-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +78,9 @@
     "timeWeek": 1040,
     "timeMonth": 1004,
     "timeYear": 1004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-16": 0
+    }
   },
   {
     "name": "LEY01 (DirectAdmin)",
