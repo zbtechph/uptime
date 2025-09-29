@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.sulithosting.com.ico",
     "slug": "billing-portal",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.95%",
     "time": 604,
     "timeDay": 876,
     "timeWeek": 691,
@@ -87,9 +87,9 @@
     "url": "$LEY01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ley-01-direct-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,8 @@
     "timeWeek": 1063,
     "timeMonth": 1266,
     "timeYear": 1219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   }
 ]
