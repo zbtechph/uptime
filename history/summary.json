@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.sulithosting.com.ico",
     "slug": "billing-portal",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.09%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.10%",
     "time": 608,
     "timeDay": 644,
     "timeWeek": 677,
-    "timeMonth": 725,
+    "timeMonth": 727,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-09-05": 16,
@@ -26,11 +26,11 @@
     "url": "$LAX01R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-01-r-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 1147,
     "timeDay": 552,
@@ -38,6 +38,7 @@
     "timeMonth": 1291,
     "timeYear": 1147,
     "dailyMinutesDown": {
+      "2025-10-05": 1,
       "2025-09-30": 20,
       "2025-09-16": 21
     }
@@ -47,9 +48,9 @@
     "url": "$LAX02R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-02-r-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.89%",
@@ -59,6 +60,7 @@
     "timeMonth": 904,
     "timeYear": 852,
     "dailyMinutesDown": {
+      "2025-10-05": 1,
       "2025-09-30": 20,
       "2025-09-16": 20,
       "2025-08-25": 28
@@ -69,7 +71,7 @@
     "url": "$FRA01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fra-01-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -81,6 +83,7 @@
     "timeMonth": 1601,
     "timeYear": 1396,
     "dailyMinutesDown": {
+      "2025-10-05": 0,
       "2025-09-30": 20,
       "2025-09-16": 20
     }
