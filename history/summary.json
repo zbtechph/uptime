@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.sulithosting.com.ico",
     "slug": "billing-portal",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 619,
     "timeDay": 813,
     "timeWeek": 710,
@@ -69,7 +69,7 @@
     "url": "$FRA01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fra-01-c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,6 +81,7 @@
     "timeMonth": 1514,
     "timeYear": 1336,
     "dailyMinutesDown": {
+      "2025-10-10": 0,
       "2025-09-30": 20,
       "2025-09-16": 20
     }
