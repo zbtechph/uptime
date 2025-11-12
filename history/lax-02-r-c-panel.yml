@@ -1,7 +1,7 @@
 url: $LAX02R_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-12T04:13:05.826Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2025-11-12T04:40:09.731Z
 startTime: 2025-08-24T09:18:46.639Z
 generator: Upptime <https://github.com/upptime/upptime>
