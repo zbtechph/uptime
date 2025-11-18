@@ -1,7 +1,7 @@
 url: $LEY01_URL
-status: down
-code: 500
-responseTime: 5554
-lastUpdated: 2025-11-18T23:35:49.131Z
+status: up
+code: 200
+responseTime: 896
+lastUpdated: 2025-11-18T23:47:04.678Z
 startTime: 2025-08-24T09:18:49.370Z
 generator: Upptime <https://github.com/upptime/upptime>
