@@ -1,7 +1,7 @@
 url: $SIN01_URL
-status: down
-code: 415
-responseTime: 656
-lastUpdated: 2025-12-02T15:51:34.374Z
+status: up
+code: 200
+responseTime: 844
+lastUpdated: 2025-12-02T16:19:23.524Z
 startTime: 2025-12-02T09:50:22.105Z
 generator: Upptime <https://github.com/upptime/upptime>
