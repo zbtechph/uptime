@@ -29,5 +29,7 @@ status-website:
     - title: Billing Portal
       href: https://billing.sulithosting.com
 
+user-agent: zbtechph
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
