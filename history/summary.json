@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.sulithosting.com.ico",
     "slug": "billing-portal",
     "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "87.18%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.98%",
+    "uptimeDay": "86.67%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "98.98%",
     "time": 656,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 699,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-12-02": 185,
+      "2025-12-02": 192,
       "2025-11-18": 88,
       "2025-11-17": 36,
       "2025-10-31": 588,
@@ -31,12 +31,12 @@
     "url": "$LAX03R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-03-r-c-panel",
-    "status": "up",
-    "uptime": "89.99%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "89.99%",
-    "uptimeMonth": "89.99%",
-    "uptimeYear": "89.99%",
+    "status": "down",
+    "uptime": "90.37%",
+    "uptimeDay": "90.37%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "90.37%",
     "time": 992,
     "timeDay": 992,
     "timeWeek": 992,
@@ -52,18 +52,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-04-r-c-panel",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "96.04%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
     "time": 1272,
     "timeDay": 1272,
     "timeWeek": 1272,
     "timeMonth": 1272,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2025-12-02": 0
+      "2025-12-02": 8
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 184
+      "2025-12-02": 192
     }
   },
   {
