@@ -7,12 +7,18 @@ sites:
     url: https://billing.sulithosting.com
     type: globalping
     location: Philippines
-  - name: LAX01-R (cPanel)
+  - name: LAX01-R (cPanel)(Discontinued)
     url: $LAX01R_URL
-  - name: LAX02-R (cPanel)
+  - name: LAX02-R (cPanel)(Discontinued)
     url: $LAX02R_URL
+  - name: LAX03-R (cPanel)
+    url: $LAX03R_URL
+  - name: LAX04-R (cPanel)
+    url: $LAX04R_URL
   - name: FRA01 (cPanel)
     url: $FRA01_URL
+  - name: SIN01 (DirectAdmin)
+    url: $SIN01_URL
   - name: LEY01 (DirectAdmin)
     url: $LEY01_URL
 
