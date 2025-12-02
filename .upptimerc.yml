@@ -10,7 +10,7 @@ sites:
   - name: LAX03-R (cPanel)
     url: $LAX03R_URL
   - name: LAX04-R (cPanel)
-    url: $LAX04R_UR
+    url: $LAX04R_URL
   - name: SIN01 (DirectAdmin)
     url: $SIN01_URL
   - name: LEY01 (DirectAdmin)
