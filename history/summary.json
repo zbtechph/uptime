@@ -32,18 +32,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-us-01",
     "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
-    "time": 701,
-    "timeDay": 701,
-    "timeWeek": 701,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "uptime": "96.31%",
+    "uptimeDay": "96.31%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "96.31%",
+    "uptimeYear": "96.31%",
+    "time": 732,
+    "timeDay": 732,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2025-12-02": 21
+      "2025-12-02": 31
     }
   },
   {
@@ -52,18 +52,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-us-02",
     "status": "down",
-    "uptime": "97.68%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
+    "uptime": "96.42%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.42%",
     "time": 294,
     "timeDay": 294,
     "timeWeek": 294,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-12-02": 19
+      "2025-12-02": 30
     }
   },
   {
@@ -71,19 +71,19 @@
     "url": "$SIN01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-sg-01",
-    "status": "down",
-    "uptime": "94.33%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "94.33%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "94.33%",
-    "time": 865,
-    "timeDay": 865,
-    "timeWeek": 865,
-    "timeMonth": 865,
-    "timeYear": 865,
+    "status": "up",
+    "uptime": "93.11%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "93.11%",
+    "time": 952,
+    "timeDay": 952,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2025-12-02": 47
+      "2025-12-02": 58
     }
   },
   {
