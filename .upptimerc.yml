@@ -15,7 +15,7 @@ sites:
     url: $LAX03R_URL
   - name: LAX04-R (cPanel)
     url: $LAX04R_URL
-  - name: FRA01 (cPanel)
+  - name: FRA01 (cPanel)(Discontinued)
     url: $FRA01_URL
   - name: SIN01 (DirectAdmin)
     url: $SIN01_URL
