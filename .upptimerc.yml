@@ -8,13 +8,13 @@ sites:
     type: globalping
     location: Philippines
   - name: WEB-US01
-    url: $LAX03R_URL
+    url: $WEB_US01
   - name: WEB-US02
-    url: $LAX04R_URL
+    url: $WEB_US02
   - name: WEB-SG01
-    url: $SIN01_URL
-  - name: WEB-LEY01
-    url: $LEY01_URL
+    url: $WEB_SG01
+  - name: WEB-NL01
+    url: $WEB_NL01
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
