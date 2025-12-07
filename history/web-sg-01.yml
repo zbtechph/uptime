@@ -1,7 +1,7 @@
 url: $WEB_SG01
-status: up
-code: 200
-responseTime: 930
-lastUpdated: 2025-12-07T19:21:54.727Z
+status: down
+code: 415
+responseTime: 667
+lastUpdated: 2025-12-07T22:48:20.808Z
 startTime: 2025-12-02T09:50:22.105Z
 generator: Upptime <https://github.com/upptime/upptime>
