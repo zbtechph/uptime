@@ -7,14 +7,35 @@ sites:
     url: https://billing.sulithosting.com
     type: globalping
     location: Philippines
+    slug: billing-portal
   - name: WEB-US01
     url: $WEB_US01
+    maxResponseTime: 5000
+    slug: web-us01
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: WEB-US02
     url: $WEB_US02
+    maxResponseTime: 5000
+    slug: web-us02
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: WEB-SG01
     url: $WEB_SG01
+    maxResponseTime: 5000
+    slug: web-sg01
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: WEB-NL01
     url: $WEB_NL01
+    maxResponseTime: 5000
+    slug: web-nl01
+    expectedStatusCodes:
+      - 200
+      - 415
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
