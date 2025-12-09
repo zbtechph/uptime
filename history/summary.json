@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.91%",
+    "uptimeWeek": "92.14%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "98.43%",
     "time": 642,
@@ -85,19 +85,19 @@
     "url": "$WEB_NL01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-nl01",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 734,
-    "timeDay": 377,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
+    "time": 606,
+    "timeDay": 364,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 23
     }
   }
 ]
