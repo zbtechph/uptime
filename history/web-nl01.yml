@@ -1,7 +1,7 @@
 url: $WEB_NL01
-status: up
+status: degraded
 code: 200
-responseTime: 1394
-lastUpdated: 2025-12-14T03:31:12.005Z
+responseTime: 21392
+lastUpdated: 2025-12-14T15:27:22.275Z
 startTime: 2025-12-08T01:14:52.600Z
 generator: Upptime <https://github.com/upptime/upptime>
