@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Billing Portal
-    url: https://billing.sulithosting.com
+    url: https://geeklab.net.eu.org/billing
     type: globalping
     location: Philippines
     slug: billing-portal
